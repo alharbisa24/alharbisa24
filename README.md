@@ -7,7 +7,7 @@ experience. Excited to tackle challenges and grow in a dynamic, innovative envir
 
 
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 #### **Programming Languages**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -32,7 +32,7 @@ experience. Excited to tackle challenges and grow in a dynamic, innovative envir
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel-livewire&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-#### ** Databases**
+#### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
