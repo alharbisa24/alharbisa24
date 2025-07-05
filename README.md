@@ -48,8 +48,6 @@ experience. Excited to tackle challenges and grow in a dynamic, innovative envir
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alharbisa24&theme=radical&hide_border=true)
 
- ![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=alharbisa24&theme=radical)
-
 
 
 
