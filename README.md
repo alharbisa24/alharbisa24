@@ -60,9 +60,6 @@ experience. Excited to tackle challenges and grow in a dynamic, innovative envir
 
 ---
 
-### Quick Links: 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://meshariportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshari-alharbi-2ba045245/)
 
 
 ### 📊 GitHub Stats
@@ -79,5 +76,9 @@ experience. Excited to tackle challenges and grow in a dynamic, innovative envir
 
 ## Get in touch
 
+[Visit my Portfolio](https://meshariportfolio.vercel.app)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshari-alharbi-2ba045245/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alharbisa24@gmail.com)
 
